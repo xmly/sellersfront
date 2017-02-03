@@ -1,12 +1,6 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
-    <ul>
-    </ul>
-    <h2>Ecosystem</h2>
-    <ul>
-    </ul>
   </div>
 </template>
 
@@ -15,7 +9,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to Data analytic App'
     }
   }
 }
